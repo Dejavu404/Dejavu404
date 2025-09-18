@@ -51,14 +51,24 @@
 ---
 
 ## 🛠 Skills
-![PHP](https://img.shields.io/badge/Code-PHP-blue)  
-![MySQL](https://img.shields.io/badge/Database-MySQL-lightblue)  
-![Laravel](https://img.shields.io/badge/Framework-Laravel-red)  
-![JavaScript](https://img.shields.io/badge/Code-JavaScript-yellow)  
-![React](https://img.shields.io/badge/Frontend-React-blue)  
-![React Native](https://img.shields.io/badge/Mobile-React%20Native-61DAFB)  
-![Flutter](https://img.shields.io/badge/Mobile-Flutter-02569B)  
-![Python](https://img.shields.io/badge/Code-Python-green)  
+
+#### 🧮 Languages  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="30" height="30"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="30" height="30"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="30" height="30"/>  
+
+#### ⚙️ Frameworks & Libraries  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" alt="Laravel" width="30" height="30"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="30" height="30"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-plain.svg" alt="Flutter" width="30" height="30"/>  
+
+#### 🗄 Databases  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="30" height="30"/>  
+
+#### 🔧 Tools / Others  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="30" height="30"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="30" height="30"/>  
+
 
 ---
 
