@@ -97,8 +97,17 @@
       <br>Linux
     </td>
   </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" width="48" height="48" alt="Ethical Hacking" />
+      <br>Ethical Hacking
+    </td>
+    <td align="center" width="96">
+      <img src="https://pandas.pydata.org/static/img/pandas_mark.svg" width="48" height="48" alt="Data Analyst" />
+      <br>Data Analyst
+    </td>
+  </tr>
 </table>
-
 
 
 ---
