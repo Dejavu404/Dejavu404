@@ -1,6 +1,7 @@
 # Hi 👋, I'm Shah Rizuan
 
-💻 Software Developer | 🚀 Explorer of Tech & Life  
+💻 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F72B2B&width=435&lines=Software+Developer;Not+really+%F0%9F%98%82)](https://git.io/typing-svg)
+| 🚀 Explorer of Tech & Life  
 📍 From Malaysia  
 
 ---
@@ -16,8 +17,9 @@
 ## 🎨 Hobbies & Interests
 - 📚 Reading motivational & tech books  
 - 🎶 Listening to music while coding  
-- ⚽ Football fan (Manchester United ❤️)  
-- 🛠 DIY & tinkering with gadgets  
+- ⚽ Football fan (Manchester City ❤️)  
+- 🛠 DIY & tinkering with gadgets
+- 🏊 Swimming
 - 👨‍👩‍👧 Spending quality time with family  
 
 ---
