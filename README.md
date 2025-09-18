@@ -1,9 +1,19 @@
 ## Hi 👋, Im Shah Rizuan Bin Osman
 
 
-💻 Software developer | Data Analysis**
-🚀 Explorer of Tech & Life**  
-📍 From Malaysia**  
+-💻 Software developer | Data Analysis**
+-🚀 Explorer of Tech & Life**  
+-📍 From Malaysia**  
+
+My Learning Interest
+-Machine Learning
+-AI
+-Data Science
+-Data Analysis
+-IOT
+-Mobile Apps
+-Web Development
+-New Technology
 
 - 🌱 Currently learning **Laravel, React & Flutter**  
 - 🔭 Working on **Forklift Monitoring System & eMaintenance App**  
