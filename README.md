@@ -10,9 +10,6 @@
 - 🎯 Goal: Become a fully independent programmer  
 - 💬 Ask me about **Coding*  
 
----
-
-## 🎨 Hobbies & Interests
 - 📚 Reading motivational & tech books  
 - 🎶 Listening to music while coding  
 - ⚽ Football fan (Manchester City ❤️)  
