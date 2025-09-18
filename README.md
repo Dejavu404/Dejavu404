@@ -1,4 +1,5 @@
-# Hi 👋, I'm Shah Rizuan
+# Hi 👋, [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F72B2B&width=200&lines=Shah+Rizuan;Not+really+%F0%9F%98%82)](https://git.io/typing-svg)
+
 
 💻 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F72B2B&width=435&lines=Software+Developer;Not+really+%F0%9F%98%82)](https://git.io/typing-svg)
 | 🚀 Explorer of Tech & Life  
