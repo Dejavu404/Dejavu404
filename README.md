@@ -1,47 +1,51 @@
-## Hi 👋, Im Shah Rizuan Bin Osman
+# Hi 👋, I'm Shah Rizuan Bin Osman  
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2B82F7&width=435&lines=💻+Software+Developer;📊+Data+Analyst;🚀+Explorer+of+Tech+%26+Life;📍+From+Malaysia)](https://git.io/typing-svg)
 
--💻 Software developer | Data Analysis**
--🚀 Explorer of Tech & Life**  
--📍 From Malaysia**  
+---
 
-My Learning Interest
-- Machine Learning
-- AI
-- Data Science
-- Data Analysis
-- IOT
-- Mobile Apps
-- Web Development
-- New Technology
+## 🌱 About Me
+- Currently learning **Laravel, React & Flutter**  
+- Working on **Forklift Monitoring System & eMaintenance App**  
+- Goal: **Become a fully independent programmer**  
+- Ask me about **Coding, Tech & Ideas**  
 
-- 🌱 Currently learning **Laravel, React & Flutter**  
-- 🔭 Working on **Forklift Monitoring System & eMaintenance App**  
-- 🎯 Goal: Become a fully independent programmer  
-- 💬 Ask me about **Coding*  
+---
 
+## 📖 Learning Interests
+- Machine Learning  
+- Artificial Intelligence (AI)  
+- Data Science  
+- Data Analysis  
+- Internet of Things (IoT)  
+- Mobile App Development  
+- Web Development  
+- Exploring New Technology  
+
+---
+
+## 🎨 Hobbies & Interests
 - 📚 Reading motivational & tech books  
 - 🎶 Listening to music while coding  
-- ⚽ Football fan (Manchester City ❤️)  
-- 🛠 DIY & tinkering with gadgets
-- 🏊 Swimming
+- ⚽ Football fan (*Manchester City ❤️*)  
+- 🛠 DIY & tinkering with gadgets  
+- 🏊 Swimming  
 - 👨‍👩‍👧 Spending quality time with family  
 
 ---
 
 ## 📚 Books I'm Reading
-- *Clean Code* by Robert C. Martin  
-- *The Pragmatic Programmer* by Andy Hunt & Dave Thomas  
-- *Atomic Habits* by James Clear  
-- *Deep Work* by Cal Newport
+- *Clean Code* — Robert C. Martin  
+- *The Pragmatic Programmer* — Andy Hunt & Dave Thomas  
+- *Atomic Habits* — James Clear  
+- *Deep Work* — Cal Newport  
 
 ---
 
 ## 📜 Certifications
-- Certified Ethical Hacker
-- [Udemy - Laravel for Beginners](link-to-cert)
-- [AWS Cloud Practitioner](link-to-cert)
-
+- Certified Ethical Hacker  
+- [Udemy - Laravel for Beginners](link-to-cert)  
+- [AWS Cloud Practitioner](link-to-cert)  
 
 ---
 
@@ -70,4 +74,5 @@ My Learning Interest
 - 📸 Instagram: [@shahrizuan.dev](https://instagram.com/shahrizuan.dev)  
 
 ---
+
 ✨ *“Code is like humor. When you have to explain it, it’s bad.”* – Cory House
