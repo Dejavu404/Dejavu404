@@ -1,6 +1,7 @@
 # Hi 👋, I'm Shah Rizuan Bin Osman  
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2B82F7&width=435&lines=💻+Software+Developer;📊+Data+Analyst;🚀+Explorer+of+Tech+%26+Life;📍+From+Malaysia)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&width=435&lines=💻+Software+Developer;📊+Data+Analyst;🚀+Explorer+of+Tech+%26+Life;📍+From+Malaysia)](https://git.io/typing-svg)
+
 
 ---
 
