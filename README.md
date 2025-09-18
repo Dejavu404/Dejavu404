@@ -1,4 +1,4 @@
-# Hi 👋, Im Shah Rizuan Bin Osman
+## Hi 👋, Im Shah Rizuan Bin Osman
 
 
 💻 Software developer | Data Analysis**
